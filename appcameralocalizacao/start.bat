@@ -1,3 +1,0 @@
-
-cls
-npx expo start
